@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>safari-pinned-tab.svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="safari-pinned-tab.svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="云冲印备份-4" transform="translate(23.000000, 23.000000)">
+            <path d="M19.1875,0.4375 L84.8125,0.4375 C95.1678391,0.4375 103.5625,8.83216094 103.5625,19.1875 L103.5625,80.125 L0.4375,80.125 L0.4375,19.1875 C0.4375,8.83216094 8.83216094,0.4375 19.1875,0.4375 Z" id="矩形" stroke="#3B86F3" stroke-width="9.375" stroke-linejoin="round"></path>
+            <path d="M23.875,80.125 L89.5,80.125 L89.5,103.5625 L14.5,103.5625 L14.5,89.5 C14.5,84.3223305 18.6973305,80.125 23.875,80.125 Z" id="矩形备份" stroke="#3B86F3" stroke-width="9.375" stroke-linejoin="round" transform="translate(52.000000, 91.843750) scale(1, -1) translate(-52.000000, -91.843750) "></path>
+            <circle id="椭圆形" stroke="#3B86F3" stroke-width="9.375" cx="52" cy="42.625" r="18.75"></circle>
+            <circle id="椭圆形" fill="#3B86F3" cx="87.15625" cy="14.5" r="4.6875"></circle>
+        </g>
+    </g>
+</svg>
